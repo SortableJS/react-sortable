@@ -10,7 +10,7 @@ Please note that this is not considered ready for production, as there are still
 
 ## Installation
 
-`sortablejs` and `@types/sortbalejs` are peer dependencies. The latter only used if intellisense/typescript is desired.
+`sortablejs` and `@types/sortablejs` are peer dependencies. The latter only used if intellisense/typescript is desired.
 
 ```shell
 npm install --save react-sortablejs sortablejs
