@@ -100,7 +100,7 @@ By Default:
 - OnSpill is premounted and NOT enabled.
 - MultiDrag and Swap and NOT premounted and NOT enabled
 
-You must mount mount the plugin with sortable **ONCE ONLY**.
+You must mount the plugin with sortable **ONCE ONLY**.
 
 ```tsx
 import React from "react";
